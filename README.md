@@ -1,0 +1,2 @@
+# practicetask
+docker jenkins pipeline
